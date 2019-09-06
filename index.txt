@@ -1,1 +1,2 @@
-ciao
+public class persona
+private int anni
