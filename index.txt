@@ -1,2 +1,2 @@
-public class persona
+public class persona1
 private int anni
